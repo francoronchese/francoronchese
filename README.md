@@ -9,7 +9,7 @@
 <h2>About Me 😃</h2>
 
 <p align="left">
-🎓 **FULLSTACK DEVELOPER** with a strong technical background.
+🎓 **SOFTWARE DEVELOPER** with a strong technical background.
 
 🌎 **Buenos Aires, Argentina** 🇦🇷
 
